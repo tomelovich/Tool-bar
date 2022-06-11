@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.Properties.UserControlTimer2.resources
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.pdb
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.Form1.resources
+C:\Users\Admin\Desktop\WinTimer1\WinTimer2\obj\Debug\WinTimer2.csproj.AssemblyReference.cache

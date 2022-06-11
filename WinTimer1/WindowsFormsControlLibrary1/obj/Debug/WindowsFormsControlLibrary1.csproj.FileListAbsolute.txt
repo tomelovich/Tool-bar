@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\WinTimer1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Admin\Desktop\WinTimer1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Admin\Desktop\WinTimer1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinTimer1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Admin\Desktop\WinTimer1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

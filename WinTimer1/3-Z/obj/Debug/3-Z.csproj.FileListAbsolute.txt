@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\WinTimer1\3-Z\bin\Debug\3-Z.exe.config
+C:\Users\Admin\Desktop\WinTimer1\3-Z\bin\Debug\3-Z.exe
+C:\Users\Admin\Desktop\WinTimer1\3-Z\bin\Debug\3-Z.pdb
+C:\Users\Admin\Desktop\WinTimer1\3-Z\obj\Debug\_3_Z.Properties.Resources.resources
+C:\Users\Admin\Desktop\WinTimer1\3-Z\obj\Debug\3-Z.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WinTimer1\3-Z\obj\Debug\3-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinTimer1\3-Z\obj\Debug\3-Z.exe
+C:\Users\Admin\Desktop\WinTimer1\3-Z\obj\Debug\3-Z.pdb
